@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# wrtie a readme.md file for this github "https://github.com/Hsuanyu-wang/IoT"
-
-Certainly! Based on the available information, here is a sample `README.md` for the GitHub repository **Hsuanyu-wang/IoT**:
-
 ```markdown
 # IoT Project Repository
 
