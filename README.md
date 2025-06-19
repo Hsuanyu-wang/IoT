@@ -35,13 +35,5 @@ You can then import the project into an Eclipse IDE for further development or e
 
 ---
 
-If you have questions or suggestions, feel free to fork or raise an issue.
-
-*Last updated: June 2025*
 ```
-
-This README is consistent with the observed repository structure and likely intent[^1].
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://github.com/Hsuanyu-wang/IoT
+usage: based on homework 7 change the sample ipe folder in this project to reconstruct the implementation.
